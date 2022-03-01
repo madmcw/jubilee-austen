@@ -70,10 +70,6 @@ header h2 span {
 
 /***** HOME PAGE ABOUT *****/
 
-#about .full-width {
-    padding: 80px 0;
-}
-
 #about h2 {
     font-family: 'Lora';
     font-size:36px;
@@ -83,8 +79,6 @@ header h2 span {
     color: #7f7f7f;
     font-size: 21px;
     line-height: 40px;
-
-    
 }
 
 /***** HOME PAGE WORK *****/
