@@ -35,7 +35,7 @@ header {
 h1 {
     color: #bbc085;
     font-family: 'Lora', serif;
-    padding: 65px 0 65px 25px;
+    padding: 65px 0;
 }
 
 nav {
@@ -61,8 +61,6 @@ header h2 {
     font-family: 'Lora', serif;
     font-size: 72px;
     line-height: 80px;
-    padding: 20px 0 20px 25px;
-    width:1200px;
 }
 
 header h2 span {
@@ -79,15 +77,13 @@ header h2 span {
 #about h2 {
     font-family: 'Lora';
     font-size:36px;
-    padding-left: 50px;
 }
 
 #about p {
     color: #7f7f7f;
     font-size: 21px;
     line-height: 40px;
-    padding-left: 50px;
-    padding-right: 50px;
+
     
 }
 
@@ -190,7 +186,6 @@ header h2 span {
 header h1 a {
     color: #bbc085;
     font-family: 'Lora', serif;
-    padding: 65px 0 65px 25px;
     text-decoration: none;
 }
 
